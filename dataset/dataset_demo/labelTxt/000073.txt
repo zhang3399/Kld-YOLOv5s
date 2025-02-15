@@ -1,0 +1,2 @@
+598 0 749 0 749 737 598 737 defective_insulator 0
+612 353 734 357 732 424 610 420 broken_defect 0

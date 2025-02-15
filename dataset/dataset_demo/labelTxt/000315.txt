@@ -1,0 +1,2 @@
+587 0 720 8 688 547 555 539 defective_insulator 0
+568 303 697 311 692 389 564 382 broken_defect 0

@@ -1,0 +1,2 @@
+638 0 877 3 864 1321 625 1318 defective_insulator 0
+639 621 872 626 869 748 636 743 broken_defect 0

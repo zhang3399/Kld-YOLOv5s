@@ -1,0 +1,3 @@
+708 715 614 716 601 96 695 94 defective_insulator 0
+697 136 603 139 602 98 696 95 flashover_defect 0
+709 701 620 701 619 660 708 659 broken_defect 0

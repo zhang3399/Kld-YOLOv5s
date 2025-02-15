@@ -1,0 +1,2 @@
+624 0 746 31 598 611 476 579 defective_insulator 0
+567 255 674 277 662 336 555 314 broken_defect 0

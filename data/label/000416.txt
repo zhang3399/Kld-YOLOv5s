@@ -1,0 +1,2 @@
+604 1 806 1 806 473 604 473 defective_insulator 0
+615 383 802 383 802 476 615 476 flashover_defect 0

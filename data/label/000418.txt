@@ -1,0 +1,2 @@
+621 394 823 406 789 980 586 968 defective_insulator 0
+620 484 817 500 808 612 611 596 flashover_defect 0

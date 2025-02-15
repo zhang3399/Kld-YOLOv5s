@@ -1,0 +1,2 @@
+624 384 810 391 786 978 601 971 defective_insulator 0
+625 386 809 395 804 484 621 475 broken_defect 0

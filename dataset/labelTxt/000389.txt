@@ -1,0 +1,2 @@
+685 303 816 303 816 964 685 964 defective_insulator 0
+688 470 820 470 820 542 688 542 broken_defect 0

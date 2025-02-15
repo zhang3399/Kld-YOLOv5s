@@ -1,0 +1,2 @@
+762 15 945 23 902 1081 720 1073 defective_insulator 0
+751 314 925 323 921 404 747 396 broken_defect 0

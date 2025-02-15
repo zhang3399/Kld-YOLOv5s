@@ -1,0 +1,561 @@
+2023-11-09 12:58:08,390 INFO    StreamThr :27060 [internal.py:wandb_internal():88] W&B internal server running at pid: 27060, started at: 2023-11-09 12:58:08.389972
+2023-11-09 12:58:08,392 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: status
+2023-11-09 12:58:08,396 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: status
+2023-11-09 12:58:08,399 DEBUG   SenderThread:27060 [sender.py:send():301] send: header
+2023-11-09 12:58:08,399 INFO    WriterThread:27060 [datastore.py:open_for_write():75] open: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\run-276z6k7w.wandb
+2023-11-09 12:58:08,400 DEBUG   SenderThread:27060 [sender.py:send():301] send: run
+2023-11-09 12:58:08,410 INFO    SenderThread:27060 [sender.py:_maybe_setup_resume():577] checking resume status for None/train/276z6k7w
+2023-11-09 12:58:36,156 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: check_version
+2023-11-09 12:58:36,167 INFO    SenderThread:27060 [dir_watcher.py:__init__():216] watching files in: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files
+2023-11-09 12:58:36,167 INFO    SenderThread:27060 [sender.py:_start_run_threads():912] run started: 276z6k7w with start time 1699505888.385972
+2023-11-09 12:58:36,167 DEBUG   SenderThread:27060 [sender.py:send():301] send: summary
+2023-11-09 12:58:36,168 INFO    SenderThread:27060 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-11-09 12:58:36,168 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: check_version
+2023-11-09 12:58:37,169 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\wandb-summary.json
+2023-11-09 12:58:41,179 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: run_start
+2023-11-09 12:58:41,194 DEBUG   HandlerThread:27060 [meta.py:__init__():34] meta init
+2023-11-09 12:58:41,194 DEBUG   HandlerThread:27060 [meta.py:__init__():49] meta init done
+2023-11-09 12:58:41,194 DEBUG   HandlerThread:27060 [meta.py:probe():215] probe
+2023-11-09 12:58:41,201 DEBUG   HandlerThread:27060 [meta.py:_save_pip():53] save pip
+2023-11-09 12:58:41,208 DEBUG   HandlerThread:27060 [meta.py:_save_pip():67] save pip done
+2023-11-09 12:58:41,209 DEBUG   HandlerThread:27060 [meta.py:_save_conda():74] save conda
+2023-11-09 12:58:42,218 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\conda-environment.yaml
+2023-11-09 12:58:42,218 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\requirements.txt
+2023-11-09 12:58:44,626 DEBUG   HandlerThread:27060 [meta.py:_save_conda():84] save conda done
+2023-11-09 12:58:44,626 DEBUG   HandlerThread:27060 [meta.py:probe():253] probe done
+2023-11-09 12:58:44,675 DEBUG   SenderThread:27060 [sender.py:send():301] send: files
+2023-11-09 12:58:44,675 INFO    SenderThread:27060 [sender.py:_save_file():1155] saving file wandb-metadata.json with policy now
+2023-11-09 12:58:44,686 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 12:58:44,686 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 12:58:45,248 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\conda-environment.yaml
+2023-11-09 12:58:45,248 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\wandb-metadata.json
+2023-11-09 12:58:45,570 DEBUG   SenderThread:27060 [sender.py:send():301] send: telemetry
+2023-11-09 12:58:45,570 DEBUG   SenderThread:27060 [sender.py:send():301] send: config
+2023-11-09 12:58:46,261 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 12:58:48,282 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 12:58:57,886 INFO    Thread-17 :27060 [upload_job.py:push():139] Uploaded file C:\Users\zhang\AppData\Local\Temp\tmpbi8fwrmbwandb\28c31wdj-wandb-metadata.json
+2023-11-09 12:58:58,377 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 12:59:00,588 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 12:59:00,588 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 12:59:06,427 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 12:59:07,443 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 12:59:08,458 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 12:59:10,484 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 12:59:12,486 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 12:59:16,376 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 12:59:28,838 WARNING FileStreamThread:27060 [file_stream.py:request_with_retry():667] requests_with_retry encountered retryable exception: ('Connection aborted.', TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None)). func: <bound method Session.post of <requests.sessions.Session object at 0x00000229C37AD6D0>>, args: ('https://api.wandb.ai/files/zhangkun123/train/276z6k7w/file_stream',), kwargs: {'json': {'files': {'output.log': {'offset': 0, 'content': ["ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'models.yolo.Model' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'torch.nn.modules.container.Sequential' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'models.common.Focus' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'models.common.Conv' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'torch.nn.modules.conv.Conv2d' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'torch.nn.modules.batchnorm.BatchNorm2d' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'torch.nn.modules.activation.LeakyReLU' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'models.common.BottleneckCSP' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'models.common.Bottleneck' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'models.common.SPP' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'torch.nn.modules.container.ModuleList' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'torch.nn.modules.pooling.MaxPool2d' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'torch.nn.modules.upsampling.Upsample' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'models.common.Concat' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', "ERROR 2023-11-09T04:58:47.607784 D:\\Anaconda\\envs\\pytorch\\lib\\site-packages\\torch\\serialization.py:656: SourceChangeWarning: source code of class 'models.yolo.Detect' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.\n", 'ERROR 2023-11-09T04:58:47.607784   warnings.warn(msg, SourceChangeWarning)\n', 'ERROR 2023-11-09T04:58:47.607784                  from  n    params  module                                  arguments\n', 'ERROR 2023-11-09T04:58:47.607784   0                -1  1      3520  models.common.Conv                      [3, 32, 6, 2, 2]\n', 'ERROR 2023-11-09T04:58:47.607784   1                -1  1     18560  models.common.Conv                      [32, 64, 3, 2]\n', 'ERROR 2023-11-09T04:58:47.607784   2                -1  1     18816  models.common.C3                        [64, 64, 1]\n', 'ERROR 2023-11-09T04:58:47.607784   3                -1  1     73984  models.common.Conv                      [64, 128, 3, 2]\n', 'ERROR 2023-11-09T04:58:47.607784   4                -1  2    115712  models.common.C3                        [128, 128, 2]\n', 'ERROR 2023-11-09T04:58:47.607784   5                -1  1    295424  models.common.Conv                      [128, 256, 3, 2]\n', 'ERROR 2023-11-09T04:58:47.607784   6                -1  3    625152  models.common.C3                        [256, 256, 3]\n', 'ERROR 2023-11-09T04:58:47.607784   7                -1  1   1180672  models.common.Conv                      [256, 512, 3, 2]\n', 'ERROR 2023-11-09T04:58:47.607784   8                -1  1   1182720  models.common.C3                        [512, 512, 1]\n', 'ERROR 2023-11-09T04:58:47.607784   9                -1  1    656896  models.common.SPPF                      [512, 512, 5]\n', 'ERROR 2023-11-09T04:58:47.607784  10                -1  1    131584  models.common.Conv                      [512, 256, 1, 1]\n', "ERROR 2023-11-09T04:58:47.607784  11                -1  1         0  torch.nn.modules.upsampling.Upsample    [None, 2, 'nearest']\n", 'ERROR 2023-11-09T04:58:47.607784  12           [-1, 6]  1         0  models.common.Concat                    [1]\n', 'ERROR 2023-11-09T04:58:47.607784  13                -1  1    361984  models.common.C3                        [512, 256, 1, False]\n', 'ERROR 2023-11-09T04:58:47.607784  14                -1  1     33024  models.common.Conv                      [256, 128, 1, 1]\n', "ERROR 2023-11-09T04:58:47.607784  15                -1  1         0  torch.nn.modules.upsampling.Upsample    [None, 2, 'nearest']\n", 'ERROR 2023-11-09T04:58:47.607784  16           [-1, 4]  1         0  models.common.Concat                    [1]\n', 'ERROR 2023-11-09T04:58:47.607784  17                -1  1     90880  models.common.C3                        [256, 128, 1, False]\n', 'ERROR 2023-11-09T04:58:47.607784  18                -1  1    147712  models.common.Conv                      [128, 128, 3, 2]\n', 'ERROR 2023-11-09T04:58:47.607784  19          [-1, 14]  1         0  models.common.Concat                    [1]\n', 'ERROR 2023-11-09T04:58:47.607784  20                -1  1    296448  models.common.C3                        [256, 256, 1, False]\n', 'ERROR 2023-11-09T04:58:47.607784  21                -1  1    590336  models.common.Conv                      [256, 256, 3, 2]\n', 'ERROR 2023-11-09T04:58:47.607784  22          [-1, 10]  1         0  models.common.Concat                    [1]\n', 'ERROR 2023-11-09T04:58:47.607784  23                -1  1   1182720  models.common.C3                        [512, 512, 1, False]\n', 'ERROR 2023-11-09T04:58:47.607784  24      [17, 20, 23]  1    509733  models.yolo.Detect                      [4, [[10, 13, 16, 30, 33, 23], [30, 61, 62, 45, 59, 119], [116, 90, 156, 198, 373, 326]], [128, 256, 512]]\n', 'ERROR 2023-11-09T04:58:47.607784 Model Summary: 270 layers, 7515877 parameters, 7515877 gradients, 17.5 GFLOPs\n', 'ERROR 2023-11-09T04:58:47.607784 Transferred 180/349 items from yolov5s.pt\n', 'ERROR 2023-11-09T04:58:47.607784 Scaled weight_decay = 0.0005\n', 'ERROR 2023-11-09T04:58:47.607784 \x1b[34m\x1b[1moptimizer:\x1b[39m\x1b[22m SGD with parameter groups 57 weight, 60 weight (no decay), 60 bias\n', "ERROR 2023-11-09T04:58:47.607784 \x1b[34m\x1b[1mtrain: \x1b[39m\x1b[22mScanning 'dataset\\train.cache' images and labels... 664 found, 0 missing, 0 empty, 0 corrupted: 100%|██████████| 664/664 [00:00<?, ?it/s]\n"]}}, 'dropped': 0}}
+2023-11-09 12:59:36,383 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 12:59:52,800 ERROR   SenderThread:27060 [retry.py:__call__():154] Retry attempt failed:
+Traceback (most recent call last):
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\urllib3\connectionpool.py", line 449, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 3, in raise_from
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\urllib3\connectionpool.py", line 444, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Anaconda\envs\pytorch\lib\http\client.py", line 1377, in getresponse
+    response.begin()
+  File "D:\Anaconda\envs\pytorch\lib\http\client.py", line 320, in begin
+    version, status, reason = self._read_status()
+  File "D:\Anaconda\envs\pytorch\lib\http\client.py", line 281, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Anaconda\envs\pytorch\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "D:\Anaconda\envs\pytorch\lib\ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "D:\Anaconda\envs\pytorch\lib\ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\requests\adapters.py", line 440, in send
+    resp = conn.urlopen(
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\urllib3\util\retry.py", line 550, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\urllib3\packages\six.py", line 770, in reraise
+    raise value
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\urllib3\connectionpool.py", line 451, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\urllib3\connectionpool.py", line 340, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=10)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\wandb\sdk\lib\retry.py", line 113, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\wandb\sdk\internal\internal_api.py", line 199, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\wandb\vendor\gql-0.2.0\wandb_gql\transport\requests.py", line 38, in execute
+    request = requests.post(self.url, **post_args)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\requests\api.py", line 117, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\requests\sessions.py", line 529, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\requests\sessions.py", line 645, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Anaconda\envs\pytorch\lib\site-packages\requests\adapters.py", line 532, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.wandb.ai', port=443): Read timed out. (read timeout=10)
+2023-11-09 12:59:56,388 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 12:59:57,935 DEBUG   SenderThread:27060 [sender.py:send():301] send: stats
+2023-11-09 12:59:57,936 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 12:59:58,825 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 12:59:58,873 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\config.yaml
+2023-11-09 12:59:59,696 DEBUG   SenderThread:27060 [sender.py:send():301] send: stats
+2023-11-09 12:59:59,696 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:00:00,891 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:02,919 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:04,930 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:05,948 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:07,976 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:10,007 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:12,025 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:14,058 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:16,088 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:16,403 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:00:16,404 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:00:18,108 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:20,139 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:20,171 DEBUG   SenderThread:27060 [sender.py:send():301] send: stats
+2023-11-09 13:00:22,142 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:24,168 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:26,197 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:28,224 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:30,254 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:32,259 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:00:32,259 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:00:32,276 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:34,293 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:36,307 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:38,311 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:40,321 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:42,340 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:44,351 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:46,383 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:00:48,176 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:00:48,176 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:00:48,413 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:00,118 DEBUG   SenderThread:27060 [sender.py:send():301] send: stats
+2023-11-09 13:01:02,559 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:04,564 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:06,569 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:08,185 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:01:08,185 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:01:08,582 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:10,603 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:22,749 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:24,756 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:26,773 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:27,733 DEBUG   SenderThread:27060 [sender.py:send():301] send: stats
+2023-11-09 13:01:28,199 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:01:28,199 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:01:28,790 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:30,817 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:32,835 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:34,846 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:36,856 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:38,887 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:40,903 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:42,929 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:44,917 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:01:44,917 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:01:44,948 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:46,977 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:49,018 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:51,049 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:53,053 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:55,067 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:57,075 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:01:59,079 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:00,788 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:02:00,788 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:02:01,104 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:01,631 DEBUG   SenderThread:27060 [sender.py:send():301] send: stats
+2023-11-09 13:02:03,122 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:05,152 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:07,167 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:09,184 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:11,197 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:13,204 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:15,220 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:16,636 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:02:16,636 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:02:17,237 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:19,265 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:21,282 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:23,311 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:25,325 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:27,343 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:29,364 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:31,388 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:32,894 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:02:32,894 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:02:33,415 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:35,444 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:38,593 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:43,714 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:44,801 DEBUG   SenderThread:27060 [sender.py:send():301] send: stats
+2023-11-09 13:02:44,801 DEBUG   SenderThread:27060 [sender.py:send():301] send: exit
+2023-11-09 13:02:44,801 INFO    SenderThread:27060 [sender.py:send_exit():437] handling exit code: 1
+2023-11-09 13:02:44,802 INFO    SenderThread:27060 [sender.py:send_exit():439] handling runtime: 237
+2023-11-09 13:02:44,803 INFO    SenderThread:27060 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-11-09 13:02:44,804 INFO    SenderThread:27060 [sender.py:send_exit():445] send defer
+2023-11-09 13:02:44,804 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:44,804 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:44,804 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:02:44,804 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 0
+2023-11-09 13:02:44,805 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:02:44,805 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 0
+2023-11-09 13:02:44,805 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 1
+2023-11-09 13:02:44,805 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:02:44,806 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 1
+2023-11-09 13:02:44,932 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:02:44,932 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:44,932 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 1
+2023-11-09 13:02:44,933 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 2
+2023-11-09 13:02:44,933 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:44,934 DEBUG   SenderThread:27060 [sender.py:send():301] send: stats
+2023-11-09 13:02:44,934 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:02:44,934 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 2
+2023-11-09 13:02:44,934 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:02:44,934 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 2
+2023-11-09 13:02:44,934 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 3
+2023-11-09 13:02:44,935 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:02:44,936 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 3
+2023-11-09 13:02:44,936 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:02:44,936 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 3
+2023-11-09 13:02:44,936 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 4
+2023-11-09 13:02:44,936 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:02:44,936 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 4
+2023-11-09 13:02:44,936 DEBUG   SenderThread:27060 [sender.py:send():301] send: summary
+2023-11-09 13:02:44,937 INFO    SenderThread:27060 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-11-09 13:02:44,937 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:02:44,937 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 4
+2023-11-09 13:02:44,937 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 5
+2023-11-09 13:02:44,938 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:02:44,938 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 5
+2023-11-09 13:02:44,938 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:02:44,938 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 5
+2023-11-09 13:02:44,938 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 6
+2023-11-09 13:02:44,939 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:02:44,939 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 6
+2023-11-09 13:02:44,939 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:02:44,939 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 6
+2023-11-09 13:02:45,044 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:45,528 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\wandb-summary.json
+2023-11-09 13:02:47,545 INFO    Thread-13 :27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:48,278 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 7
+2023-11-09 13:02:48,279 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:48,279 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:02:48,279 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 7
+2023-11-09 13:02:48,280 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:02:48,280 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 7
+2023-11-09 13:02:48,280 INFO    SenderThread:27060 [dir_watcher.py:finish():362] shutting down directory watcher
+2023-11-09 13:02:48,387 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:48,563 INFO    SenderThread:27060 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:02:48,563 INFO    SenderThread:27060 [dir_watcher.py:finish():392] scan: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files
+2023-11-09 13:02:48,563 INFO    SenderThread:27060 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\conda-environment.yaml conda-environment.yaml
+2023-11-09 13:02:48,564 INFO    SenderThread:27060 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\config.yaml config.yaml
+2023-11-09 13:02:48,564 INFO    SenderThread:27060 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log output.log
+2023-11-09 13:02:48,567 INFO    SenderThread:27060 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\requirements.txt requirements.txt
+2023-11-09 13:02:48,573 INFO    SenderThread:27060 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\wandb-metadata.json wandb-metadata.json
+2023-11-09 13:02:48,573 INFO    SenderThread:27060 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\wandb-summary.json wandb-summary.json
+2023-11-09 13:02:48,576 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 8
+2023-11-09 13:02:48,577 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:48,578 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:02:48,578 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 8
+2023-11-09 13:02:48,579 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:02:48,579 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 8
+2023-11-09 13:02:48,581 INFO    SenderThread:27060 [file_pusher.py:finish():168] shutting down file pusher
+2023-11-09 13:02:48,687 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:48,687 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:48,797 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:48,797 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:48,905 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:48,905 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,014 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,014 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,124 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,124 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,234 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,234 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,343 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,343 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,453 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,453 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,562 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,562 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,669 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,670 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,778 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,779 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,888 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,888 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:49,996 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:49,996 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:50,105 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:50,111 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:50,216 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:50,217 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:50,326 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:50,326 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:50,437 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:50,437 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:50,544 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:50,545 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:50,654 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:50,654 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:50,764 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:50,765 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:50,872 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:50,872 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:50,980 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:50,981 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:51,088 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:51,088 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:51,196 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:51,197 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:51,306 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:51,306 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:51,416 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:51,416 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:51,526 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:51,526 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:51,636 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:51,636 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:51,746 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:51,747 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:51,855 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:51,855 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:51,963 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:51,963 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:52,072 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:52,072 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:52,182 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:52,182 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:52,293 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:52,293 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:52,401 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:52,401 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:52,511 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:52,511 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:52,621 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:52,621 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:52,730 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:52,731 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:52,839 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:52,840 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:52,950 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:52,950 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:53,058 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:53,058 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:53,169 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:53,169 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:53,277 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:53,277 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:53,385 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:53,386 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:53,495 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:53,495 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:53,604 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:53,605 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:53,714 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:53,715 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:53,824 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:53,825 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:53,932 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:53,933 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:54,040 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:54,041 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:54,151 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:54,151 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:54,261 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:54,262 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:54,373 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:54,373 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:54,482 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:54,483 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:54,593 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:54,593 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:54,706 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:54,706 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:54,815 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:54,816 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:54,922 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:54,924 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:55,039 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:55,040 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:55,144 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:55,145 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:55,263 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:55,269 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:55,399 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:55,399 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:55,509 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:55,509 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:55,621 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:55,622 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:55,732 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:55,733 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:55,842 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:55,843 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:55,953 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:55,954 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:56,063 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:56,063 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:56,173 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:56,173 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:56,282 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:56,282 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:56,390 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:56,390 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:56,500 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:56,501 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:56,610 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:56,610 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:56,719 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:56,720 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:56,828 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:56,829 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:56,938 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:56,938 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:57,047 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:57,048 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:57,156 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:57,156 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:57,268 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:57,268 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:57,377 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:57,377 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:57,488 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:57,488 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:57,598 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:57,598 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:57,708 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:57,708 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:57,818 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:57,818 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:57,925 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:57,926 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:58,035 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:58,035 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:58,145 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:58,146 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:58,254 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:58,254 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:58,362 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:58,363 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:58,472 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:58,472 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:58,581 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:58,582 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:58,691 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:58,692 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:58,801 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:58,801 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:58,918 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:58,918 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:59,023 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:59,023 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:59,133 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:59,134 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:59,245 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:59,246 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:59,356 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:59,356 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:59,465 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:59,465 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:59,576 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:59,576 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:59,688 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:59,689 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:59,799 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:59,799 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:02:59,909 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:02:59,909 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:00,020 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:00,021 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:00,131 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:00,132 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:00,240 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:00,241 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:00,351 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:00,351 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:00,459 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:00,460 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:00,569 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:00,569 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:00,677 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:00,678 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:00,787 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:00,787 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:00,896 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:00,896 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:01,005 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:01,005 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:01,113 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:01,113 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:01,222 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:01,223 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:01,325 INFO    Thread-22 :27060 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\conda-environment.yaml
+2023-11-09 13:03:01,327 INFO    Thread-26 :27060 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\wandb-summary.json
+2023-11-09 13:03:01,332 INFO    Thread-23 :27060 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\config.yaml
+2023-11-09 13:03:01,333 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:01,333 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:01,419 INFO    Thread-25 :27060 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\requirements.txt
+2023-11-09 13:03:01,440 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:01,440 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:01,549 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:01,549 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:01,590 INFO    Thread-24 :27060 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\files\output.log
+2023-11-09 13:03:01,660 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:01,660 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:01,770 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:01,770 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:01,802 INFO    Thread-12 :27060 [sender.py:transition_state():458] send defer: 9
+2023-11-09 13:03:01,802 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:03:01,803 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 9
+2023-11-09 13:03:01,803 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:03:01,803 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 9
+2023-11-09 13:03:01,878 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:02,155 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 10
+2023-11-09 13:03:02,155 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:02,156 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:03:02,156 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 10
+2023-11-09 13:03:02,157 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:03:02,157 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 10
+2023-11-09 13:03:02,157 INFO    SenderThread:27060 [sender.py:transition_state():458] send defer: 11
+2023-11-09 13:03:02,157 DEBUG   SenderThread:27060 [sender.py:send():301] send: final
+2023-11-09 13:03:02,157 DEBUG   SenderThread:27060 [sender.py:send():301] send: footer
+2023-11-09 13:03:02,158 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:03:02,158 INFO    HandlerThread:27060 [handler.py:handle_request_defer():161] handle defer: 11
+2023-11-09 13:03:02,158 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:03:02,158 INFO    SenderThread:27060 [sender.py:send_request_defer():454] handle sender defer: 11
+2023-11-09 13:03:02,258 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:03:02,258 DEBUG   SenderThread:27060 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:03:02,258 INFO    SenderThread:27060 [file_pusher.py:join():173] waiting for file pusher
+2023-11-09 13:03:04,101 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: sampled_history
+2023-11-09 13:03:04,102 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: get_summary
+2023-11-09 13:03:04,103 INFO    MainThread:27060 [wandb_run.py:_footer_history_summary_info():3321] rendering history
+2023-11-09 13:03:04,103 INFO    MainThread:27060 [wandb_run.py:_footer_history_summary_info():3353] rendering summary
+2023-11-09 13:03:04,103 INFO    MainThread:27060 [wandb_run.py:_footer_sync_info():3277] logging synced files
+2023-11-09 13:03:04,103 DEBUG   HandlerThread:27060 [handler.py:handle_request():138] handle_request: shutdown
+2023-11-09 13:03:04,103 INFO    HandlerThread:27060 [handler.py:finish():807] shutting down handler
+2023-11-09 13:03:04,179 INFO    WriterThread:27060 [datastore.py:close():279] close: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_125808-276z6k7w\run-276z6k7w.wandb
+2023-11-09 13:03:05,010 INFO    SenderThread:27060 [sender.py:finish():1315] shutting down sender
+2023-11-09 13:03:05,011 INFO    SenderThread:27060 [file_pusher.py:finish():168] shutting down file pusher
+2023-11-09 13:03:05,011 INFO    SenderThread:27060 [file_pusher.py:join():173] waiting for file pusher
+2023-11-09 13:03:05,107 INFO    MainThread:27060 [internal.py:handle_exit():78] Internal process exited

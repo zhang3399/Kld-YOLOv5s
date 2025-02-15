@@ -1,0 +1,2 @@
+594 0 1061 0 1061 567 594 567 defective_insulator 0
+595 352 1031 352 1031 566 595 566 broken_defect 0

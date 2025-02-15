@@ -1,0 +1,2 @@
+625 6 737 13 691 663 579 655 defective_insulator 0
+609 295 716 304 711 365 604 356 broken_defect 0

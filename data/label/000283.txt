@@ -1,0 +1,2 @@
+713 0 976 16 926 853 663 838 defective_insulator 0
+693 367 952 387 939 546 680 525 broken_defect 0

@@ -1,0 +1,2 @@
+627 9 821 122 414 817 220 703 defective_insulator 0
+516 213 703 327 652 411 465 296 broken_defect 0

@@ -1,0 +1,3 @@
+444 664 559 664 559 853 444 853 defective_insulator 0
+446 674 559 674 559 727 446 727 flashover_defect 0
+444 793 559 793 559 844 444 844 flashover_defect 0

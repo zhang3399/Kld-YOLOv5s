@@ -1,0 +1,2 @@
+0 32 232 32 232 66 0 66 good_insulator 0
+779 388 286 482 276 430 769 336 good_insulator 0

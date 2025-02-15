@@ -1,0 +1,2 @@
+709 4 857 19 774 848 626 833 defective_insulator 0
+676 342 823 359 814 439 668 423 broken_defect 0

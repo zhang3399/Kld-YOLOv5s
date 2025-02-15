@@ -1,0 +1,2 @@
+492 364 773 392 714 981 433 953 defective_insulator 0
+492 371 774 399 757 568 475 540 flashover_defect 0

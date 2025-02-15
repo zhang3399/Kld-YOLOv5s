@@ -1,0 +1,4 @@
+640 0 923 9 890 1103 607 1094 defective_insulator 0
+637 64 923 72 919 214 633 206 flashover_defect 0
+644 204 912 218 904 366 636 352 flashover_defect 0
+614 796 897 807 892 946 608 935 flashover_defect 0

@@ -1,0 +1,2 @@
+543 18 699 31 634 848 477 835 defective_insulator 0
+511 419 667 435 658 518 502 502 broken_defect 0

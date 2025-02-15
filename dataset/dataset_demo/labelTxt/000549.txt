@@ -1,0 +1,2 @@
+537 1 765 13 705 1199 478 1188 defective_insulator 0
+517 482 740 495 733 613 510 599 broken_defect 0

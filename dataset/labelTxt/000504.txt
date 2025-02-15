@@ -1,0 +1,2 @@
+662 397 889 397 889 981 662 981 defective_insulator 0
+663 502 855 502 855 603 663 603 flashover_defect 0

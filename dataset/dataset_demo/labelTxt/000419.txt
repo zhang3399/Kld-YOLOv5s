@@ -1,0 +1,2 @@
+584 320 768 320 768 982 584 982 defective_insulator 0
+583 324 768 324 768 430 583 430 flashover_defect 0

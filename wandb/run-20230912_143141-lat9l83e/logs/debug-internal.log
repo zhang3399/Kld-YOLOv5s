@@ -1,0 +1,163 @@
+2023-09-12 14:31:41,389 INFO    StreamThr :100692 [internal.py:wandb_internal():88] W&B internal server running at pid: 100692, started at: 2023-09-12 14:31:41.389529
+2023-09-12 14:31:41,391 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: status
+2023-09-12 14:31:41,395 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: status
+2023-09-12 14:31:41,398 DEBUG   SenderThread:100692 [sender.py:send():301] send: header
+2023-09-12 14:31:41,398 INFO    WriterThread:100692 [datastore.py:open_for_write():75] open: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\run-lat9l83e.wandb
+2023-09-12 14:31:41,399 DEBUG   SenderThread:100692 [sender.py:send():301] send: run
+2023-09-12 14:31:41,408 INFO    SenderThread:100692 [sender.py:_maybe_setup_resume():577] checking resume status for None/train/lat9l83e
+2023-09-12 14:31:49,493 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: check_version
+2023-09-12 14:31:49,500 INFO    SenderThread:100692 [dir_watcher.py:__init__():216] watching files in: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files
+2023-09-12 14:31:49,500 INFO    SenderThread:100692 [sender.py:_start_run_threads():912] run started: lat9l83e with start time 1694500301.382531
+2023-09-12 14:31:49,500 DEBUG   SenderThread:100692 [sender.py:send():301] send: summary
+2023-09-12 14:31:49,501 INFO    SenderThread:100692 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-09-12 14:31:49,501 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: check_version
+2023-09-12 14:31:50,507 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\wandb-summary.json
+2023-09-12 14:31:54,517 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: run_start
+2023-09-12 14:31:54,548 DEBUG   HandlerThread:100692 [meta.py:__init__():34] meta init
+2023-09-12 14:31:54,548 DEBUG   HandlerThread:100692 [meta.py:__init__():49] meta init done
+2023-09-12 14:31:54,548 DEBUG   HandlerThread:100692 [meta.py:probe():215] probe
+2023-09-12 14:31:54,568 DEBUG   HandlerThread:100692 [meta.py:_save_pip():53] save pip
+2023-09-12 14:31:54,569 DEBUG   HandlerThread:100692 [meta.py:_save_pip():67] save pip done
+2023-09-12 14:31:54,570 DEBUG   HandlerThread:100692 [meta.py:_save_conda():74] save conda
+2023-09-12 14:31:55,553 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\conda-environment.yaml
+2023-09-12 14:31:55,553 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\requirements.txt
+2023-09-12 14:32:01,242 DEBUG   HandlerThread:100692 [meta.py:_save_conda():84] save conda done
+2023-09-12 14:32:01,243 DEBUG   HandlerThread:100692 [meta.py:probe():253] probe done
+2023-09-12 14:32:01,340 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: stop_status
+2023-09-12 14:32:01,340 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: stop_status
+2023-09-12 14:32:01,345 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:01,597 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\conda-environment.yaml
+2023-09-12 14:32:01,597 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\wandb-metadata.json
+2023-09-12 14:32:02,268 DEBUG   SenderThread:100692 [sender.py:send():301] send: telemetry
+2023-09-12 14:32:02,270 DEBUG   SenderThread:100692 [sender.py:send():301] send: exit
+2023-09-12 14:32:02,271 INFO    SenderThread:100692 [sender.py:send_exit():437] handling exit code: 1
+2023-09-12 14:32:02,271 INFO    SenderThread:100692 [sender.py:send_exit():439] handling runtime: 6
+2023-09-12 14:32:02,272 INFO    SenderThread:100692 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-09-12 14:32:02,272 INFO    SenderThread:100692 [sender.py:send_exit():445] send defer
+2023-09-12 14:32:02,273 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:02,273 DEBUG   SenderThread:100692 [sender.py:send():301] send: files
+2023-09-12 14:32:02,274 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:02,274 INFO    SenderThread:100692 [sender.py:_save_file():1155] saving file wandb-metadata.json with policy now
+2023-09-12 14:32:02,274 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 0
+2023-09-12 14:32:02,276 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:02,276 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 0
+2023-09-12 14:32:02,276 INFO    SenderThread:100692 [sender.py:transition_state():458] send defer: 1
+2023-09-12 14:32:02,276 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:02,276 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 1
+2023-09-12 14:32:02,409 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:02,409 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 1
+2023-09-12 14:32:02,409 INFO    SenderThread:100692 [sender.py:transition_state():458] send defer: 2
+2023-09-12 14:32:02,409 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:02,410 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:02,410 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:02,410 DEBUG   SenderThread:100692 [sender.py:send():301] send: stats
+2023-09-12 14:32:02,411 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 2
+2023-09-12 14:32:02,412 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:02,412 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 2
+2023-09-12 14:32:02,412 INFO    SenderThread:100692 [sender.py:transition_state():458] send defer: 3
+2023-09-12 14:32:02,412 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:02,412 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 3
+2023-09-12 14:32:02,412 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:02,412 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 3
+2023-09-12 14:32:02,412 INFO    SenderThread:100692 [sender.py:transition_state():458] send defer: 4
+2023-09-12 14:32:02,413 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:02,413 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 4
+2023-09-12 14:32:02,413 DEBUG   SenderThread:100692 [sender.py:send():301] send: summary
+2023-09-12 14:32:02,413 INFO    SenderThread:100692 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-09-12 14:32:02,414 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:02,414 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 4
+2023-09-12 14:32:02,414 INFO    SenderThread:100692 [sender.py:transition_state():458] send defer: 5
+2023-09-12 14:32:02,414 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:02,414 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 5
+2023-09-12 14:32:02,414 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:02,414 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 5
+2023-09-12 14:32:02,517 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:02,610 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\wandb-summary.json
+2023-09-12 14:32:02,610 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\output.log
+2023-09-12 14:32:03,654 INFO    SenderThread:100692 [sender.py:transition_state():458] send defer: 6
+2023-09-12 14:32:03,654 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:03,654 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:03,655 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 6
+2023-09-12 14:32:03,655 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:03,655 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 6
+2023-09-12 14:32:03,761 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:03,881 INFO    Thread-17 :100692 [upload_job.py:push():139] Uploaded file C:\Users\zhang\AppData\Local\Temp\tmp1qpz_1gowandb\2tdclqdu-wandb-metadata.json
+2023-09-12 14:32:04,636 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\output.log
+2023-09-12 14:32:04,637 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\config.yaml
+2023-09-12 14:32:06,293 INFO    SenderThread:100692 [sender.py:transition_state():458] send defer: 7
+2023-09-12 14:32:06,293 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:06,294 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:06,294 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 7
+2023-09-12 14:32:06,295 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:06,295 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 7
+2023-09-12 14:32:06,295 INFO    SenderThread:100692 [dir_watcher.py:finish():362] shutting down directory watcher
+2023-09-12 14:32:06,401 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:06,652 INFO    Thread-13 :100692 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\output.log
+2023-09-12 14:32:06,654 INFO    SenderThread:100692 [dir_watcher.py:finish():392] scan: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files
+2023-09-12 14:32:06,654 INFO    SenderThread:100692 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\conda-environment.yaml conda-environment.yaml
+2023-09-12 14:32:06,655 INFO    SenderThread:100692 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\config.yaml config.yaml
+2023-09-12 14:32:06,655 INFO    SenderThread:100692 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\output.log output.log
+2023-09-12 14:32:06,659 INFO    SenderThread:100692 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\requirements.txt requirements.txt
+2023-09-12 14:32:06,665 INFO    SenderThread:100692 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\wandb-metadata.json wandb-metadata.json
+2023-09-12 14:32:06,666 INFO    SenderThread:100692 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\wandb-summary.json wandb-summary.json
+2023-09-12 14:32:06,669 INFO    SenderThread:100692 [sender.py:transition_state():458] send defer: 8
+2023-09-12 14:32:06,669 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:06,673 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:06,674 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 8
+2023-09-12 14:32:06,674 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:06,674 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 8
+2023-09-12 14:32:06,674 INFO    SenderThread:100692 [file_pusher.py:finish():168] shutting down file pusher
+2023-09-12 14:32:06,777 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:06,777 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:06,887 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:06,887 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:06,997 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:06,997 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:07,105 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:07,105 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:07,216 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:07,216 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:07,323 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:07,323 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:07,433 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:07,433 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:07,542 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:07,542 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:07,649 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:07,649 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:07,756 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:07,756 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:07,864 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:07,865 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:07,974 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:07,974 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:08,035 INFO    Thread-21 :100692 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\requirements.txt
+2023-09-12 14:32:08,036 INFO    Thread-18 :100692 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\conda-environment.yaml
+2023-09-12 14:32:08,072 INFO    Thread-22 :100692 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\wandb-summary.json
+2023-09-12 14:32:08,082 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:08,082 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:08,120 INFO    Thread-20 :100692 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\output.log
+2023-09-12 14:32:08,145 INFO    Thread-19 :100692 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20230912_143141-lat9l83e\files\config.yaml
+2023-09-12 14:32:08,191 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:08,191 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:08,302 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:08,302 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: poll_exit
+2023-09-12 14:32:08,348 INFO    Thread-12 :100692 [sender.py:transition_state():458] send defer: 9
+2023-09-12 14:32:08,349 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: defer
+2023-09-12 14:32:08,349 INFO    HandlerThread:100692 [handler.py:handle_request_defer():161] handle defer: 9
+2023-09-12 14:32:08,349 DEBUG   SenderThread:100692 [sender.py:send_request():315] send_request: defer
+2023-09-12 14:32:08,349 INFO    SenderThread:100692 [sender.py:send_request_defer():454] handle sender defer: 9
+2023-09-12 14:32:08,413 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:13,535 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:18,650 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:23,769 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:28,892 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:30,693 WARNING FileStreamThread:100692 [file_stream.py:request_with_retry():667] requests_with_retry encountered retryable exception: ('Connection aborted.', TimeoutError(10060, '由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。', None, 10060, None)). func: <bound method Session.post of <requests.sessions.Session object at 0x0000018210636CD0>>, args: ('https://api.wandb.ai/files/zhangkun123/train/lat9l83e/file_stream',), kwargs: {'json': {'files': {'wandb-summary.json': {'offset': 0, 'content': ['{"_wandb": {"runtime": 6}}']}, 'wandb-events.jsonl': {'offset': 0, 'content': ['{"system.gpu.0.gpu": 0.25, "system.gpu.0.memory": 5.0, "system.gpu.0.memoryAllocated": 8.22, "system.gpu.0.temp": 41.0, "system.cpu": 10.18, "system.memory": 59.43, "system.disk": 86.5, "system.proc.memory.availableMB": 6596.53, "system.proc.memory.rssMB": 453.21, "system.proc.memory.percent": 2.79, "system.proc.cpu.threads": 40.5, "system.network.sent": 25472, "system.network.recv": 136424, "_wandb": true, "_timestamp": 1694500322.408499, "_runtime": 21.025968}']}, 'output.log': {'offset': 0, 'content': ["2023-09-12T06:32:04.277580 WARNING: Dataset not found, nonexistent paths: ['C:\\\\Users\\\\zhang\\\\Desktop\\\\study\\\\isoltor_grsammer\\\\yolov5_obb-master\\\\dataset\\\\dataset_demo\\\\dataset\\\\dataset_demo\\\\val.txt']\n", 'ERROR 2023-09-12T06:32:04.279575 Traceback (most recent call last):\n', 'ERROR 2023-09-12T06:32:04.279575   File "C:\\Users\\zhang\\Desktop\\study\\isoltor_grsammer\\yolov5_obb-master\\train.py", line 633, in <module>\n', 'ERROR 2023-09-12T06:32:04.279575     main(opt)\n', 'ERROR 2023-09-12T06:32:04.279575   File "C:\\Users\\zhang\\Desktop\\study\\isoltor_grsammer\\yolov5_obb-master\\train.py", line 530, in main\n', 'ERROR 2023-09-12T06:32:04.279575     train(opt.hyp, opt, device, callbacks)\n', 'ERROR 2023-09-12T06:32:04.279575   File "C:\\Users\\zhang\\Desktop\\study\\isoltor_grsammer\\yolov5_obb-master\\train.py", line 87, in train\n', 'ERROR 2023-09-12T06:32:04.279575     loggers = Loggers(save_dir, weights, opt, hyp, LOGGER)  # loggers instance\n', 'ERROR 2023-09-12T06:32:04.279575   File "C:\\Users\\zhang\\Desktop\\study\\isoltor_grsammer\\yolov5_obb-master\\utils\\loggers\\__init__.py", line 76, in __init__\n', 'ERROR 2023-09-12T06:32:04.279575     self.wandb = WandbLogger(self.opt, run_id)\n', 'ERROR 2023-09-12T06:32:04.279575   File "C:\\Users\\zhang\\Desktop\\study\\isoltor_grsammer\\yolov5_obb-master\\utils\\loggers\\wandb\\wandb_utils.py", line 180, in __init__\n', 'ERROR 2023-09-12T06:32:04.279575     self.data_dict = check_wandb_dataset(opt.data)\n', 'ERROR 2023-09-12T06:32:04.279575   File "C:\\Users\\zhang\\Desktop\\study\\isoltor_grsammer\\yolov5_obb-master\\utils\\loggers\\wandb\\wandb_utils.py", line 56, in check_wandb_dataset\n', 'ERROR 2023-09-12T06:32:04.279575     return check_dataset(data_file)\n', 'ERROR 2023-09-12T06:32:04.279575   File "C:\\Users\\zhang\\Desktop\\study\\isoltor_grsammer\\yolov5_obb-master\\utils\\general.py", line 418, in check_dataset\n', "ERROR 2023-09-12T06:32:04.279575     raise Exception('Dataset not found.')\n", 'ERROR 2023-09-12T06:32:04.279575 Exception: Dataset not found.\n']}}, 'dropped': 0}}
+2023-09-12 14:32:34,004 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:39,124 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:44,245 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:49,361 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:54,470 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:32:59,591 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:33:04,709 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit
+2023-09-12 14:33:09,826 DEBUG   HandlerThread:100692 [handler.py:handle_request():138] handle_request: poll_exit

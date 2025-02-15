@@ -1,0 +1,2 @@
+26 481 1693 581 1668 994 2 894 defective_insulator 0
+1360 555 1677 577 1648 993 1330 970 flashover_defect 0

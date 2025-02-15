@@ -1,0 +1,2 @@
+645 304 814 373 565 979 396 910 defective_insulator 0
+647 306 818 375 766 505 595 436 flashover_defect 0

@@ -1,0 +1,2 @@
+844 416 307 426 306 372 843 361 good_insulator 0
+1 14 200 26 198 57 0 45 good_insulator 0

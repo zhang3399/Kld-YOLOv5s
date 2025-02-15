@@ -1,0 +1,3 @@
+905 1191 723 1201 652 13 834 2 defective_insulator 0
+870 632 691 643 686 544 865 533 flashover_defect 0
+884 883 704 894 698 794 879 783 flashover_defect 0

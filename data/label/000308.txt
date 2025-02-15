@@ -1,0 +1,3 @@
+338 84 493 87 469 1251 315 1248 defective_insulator 0
+338 95 490 95 490 159 338 159 flashover_defect 0
+336 243 484 246 483 319 335 316 flashover_defect 0

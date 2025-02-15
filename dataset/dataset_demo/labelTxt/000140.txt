@@ -1,0 +1,2 @@
+267 586 2276 808 2246 1078 237 856 defective_insulator 0
+271 588 499 611 472 884 244 861 flashover_defect 0

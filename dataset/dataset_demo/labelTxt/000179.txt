@@ -1,0 +1,2 @@
+729 537 977 537 977 1201 729 1201 defective_insulator 0
+735 542 974 542 974 700 735 700 flashover_defect 0

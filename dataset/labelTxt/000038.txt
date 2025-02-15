@@ -1,0 +1,2 @@
+829 86 973 94 924 1067 780 1059 defective_insulator 0
+832 88 969 95 966 152 829 145 flashover_defect 0

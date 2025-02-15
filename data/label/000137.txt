@@ -1,0 +1,2 @@
+537 264 754 264 754 1035 537 1035 defective_insulator 0
+564 272 749 272 749 339 564 339 flashover_defect 0

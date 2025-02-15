@@ -1,0 +1,4 @@
+813 627 627 646 564 20 750 1 defective_insulator 0
+808 623 620 640 607 491 794 474 flashover_defect 0
+771 199 584 218 574 115 761 97 flashover_defect 0
+789 395 603 412 594 305 779 288 flashover_defect 0

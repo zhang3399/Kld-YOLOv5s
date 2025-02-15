@@ -1,0 +1,2 @@
+634 1 915 20 857 843 577 823 defective_insulator 0
+610 563 869 586 856 733 597 709 broken_defect 0

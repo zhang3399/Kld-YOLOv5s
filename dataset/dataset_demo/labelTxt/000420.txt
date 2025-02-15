@@ -1,0 +1,2 @@
+677 544 842 544 842 982 677 982 defective_insulator 0
+676 544 843 544 843 636 676 636 flashover_defect 0

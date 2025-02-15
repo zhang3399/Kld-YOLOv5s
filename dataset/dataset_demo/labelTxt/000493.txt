@@ -1,0 +1,2 @@
+625 0 803 9 776 542 599 533 defective_insulator 0
+601 439 779 446 775 544 597 537 flashover_defect 0

@@ -1,0 +1,2 @@
+94 199 1156 199 1156 715 94 715 defective_insulator 0
+425 316 650 316 650 667 425 667 flashover_defect 0

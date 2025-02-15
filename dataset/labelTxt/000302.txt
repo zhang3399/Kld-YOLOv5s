@@ -1,0 +1,2 @@
+606 253 921 269 892 853 577 838 defective_insulator 0
+604 259 922 274 910 508 592 492 flashover_defect 0

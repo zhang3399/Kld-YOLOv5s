@@ -1,0 +1,2 @@
+904 266 279 494 249 411 874 183 defective_insulator 0
+418 402 367 417 354 374 405 359 broken_defect 0

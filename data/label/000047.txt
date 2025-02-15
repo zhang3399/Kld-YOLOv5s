@@ -1,0 +1,3 @@
+0 0 1127 0 1127 799 0 799 defective_insulator 0
+714 488 601 642 499 568 612 413 broken_defect 0
+596 388 473 553 377 482 500 317 broken_defect 0

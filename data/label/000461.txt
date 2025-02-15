@@ -1,0 +1,2 @@
+772 0 946 13 904 601 730 589 defective_insulator 0
+755 264 926 276 919 362 749 350 broken_defect 0

@@ -1,0 +1,3 @@
+289 1 597 565 481 629 172 65 defective_insulator 0
+1147 488 1176 617 617 743 587 614 defective_insulator 0
+858 559 885 683 813 698 786 574 flashover_defect 0

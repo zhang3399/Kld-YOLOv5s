@@ -1,0 +1,2 @@
+426 0 1212 761 1085 892 299 131 defective_insulator 0
+911 480 978 544 866 661 799 598 broken_defect 0

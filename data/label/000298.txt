@@ -1,0 +1,2 @@
+703 0 879 0 879 466 703 466 defective_insulator 0
+703 378 878 378 878 461 703 461 broken_defect 0

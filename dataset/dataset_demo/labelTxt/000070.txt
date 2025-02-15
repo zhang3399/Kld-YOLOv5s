@@ -1,0 +1,2 @@
+745 484 946 496 908 1137 706 1125 defective_insulator 0
+746 513 942 529 935 617 739 601 flashover_defect 0

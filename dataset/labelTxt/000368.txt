@@ -1,0 +1,2 @@
+971 66 1084 306 114 763 1 524 defective_insulator 0
+644 232 756 459 614 529 501 303 broken_defect 0

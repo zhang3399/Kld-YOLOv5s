@@ -1,0 +1,2 @@
+590 161 709 166 682 852 562 847 defective_insulator 0
+584 322 702 331 697 398 579 390 broken_defect 0

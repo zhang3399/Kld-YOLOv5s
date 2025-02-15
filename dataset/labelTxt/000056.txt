@@ -1,0 +1,2 @@
+663 85 950 85 950 1135 663 1135 defective_insulator 0
+664 101 953 101 953 317 664 317 flashover_defect 0

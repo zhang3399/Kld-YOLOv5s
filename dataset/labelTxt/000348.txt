@@ -1,0 +1,2 @@
+671 0 1008 921 844 981 507 60 defective_insulator 0
+800 381 823 445 670 501 646 438 broken_defect 0

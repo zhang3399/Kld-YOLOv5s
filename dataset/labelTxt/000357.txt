@@ -1,0 +1,2 @@
+372 0 1114 896 1017 976 276 79 defective_insulator 0
+720 428 759 476 669 547 631 499 broken_defect 0

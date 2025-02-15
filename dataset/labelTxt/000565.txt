@@ -1,0 +1,2 @@
+747 10 987 44 813 1282 572 1248 defective_insulator 0
+672 590 903 623 887 740 655 707 broken_defect 0

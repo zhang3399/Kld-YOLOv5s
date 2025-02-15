@@ -1,0 +1,2 @@
+581 2 765 2 765 665 581 665 defective_insulator 0
+582 541 769 541 769 649 582 649 flashover_defect 0

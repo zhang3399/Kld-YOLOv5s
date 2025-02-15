@@ -1,0 +1,2 @@
+669 241 766 243 744 948 648 945 defective_insulator 0
+664 446 760 450 758 502 662 499 broken_defect 0

@@ -1,0 +1,2 @@
+912 1071 761 1074 740 16 891 13 defective_insulator 0
+902 596 757 601 755 526 900 521 broken_defect 0

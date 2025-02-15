@@ -1,0 +1,2 @@
+730 0 950 9 926 595 706 587 defective_insulator 0
+712 466 925 474 921 591 707 583 flashover_defect 0

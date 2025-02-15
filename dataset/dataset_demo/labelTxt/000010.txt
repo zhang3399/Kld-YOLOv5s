@@ -1,0 +1,2 @@
+904 844 613 853 588 9 879 0 defective_insulator 0
+887 459 603 468 598 295 882 287 broken_defect 0

@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.9.12",
+    "heartbeatAt": "2023-11-09T05:50:26.739400",
+    "startedAt": "2023-11-09T05:50:22.063974",
+    "docker": null,
+    "gpu": "GeForce GTX 1650",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "C:\\Users\\zhang\\Desktop\\study\\isoltor_grsammer\\yolov5_obb-master\\train.py",
+    "codePath": "train.py",
+    "host": "LAPTOP-5SAVAVO7",
+    "username": "zhang",
+    "executable": "D:\\Anaconda\\envs\\pytorch\\python.exe"
+}

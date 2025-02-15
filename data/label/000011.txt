@@ -1,0 +1,2 @@
+845 432 552 500 513 333 806 264 broken_defect 0
+436 0 961 0 961 854 436 854 defective_insulator 0

@@ -1,0 +1,2 @@
+851 0 1284 48 1157 1201 724 1153 defective_insulator 0
+794 563 1224 628 1187 871 757 806 flashover_defect 0

@@ -1,0 +1,2 @@
+35 203 985 203 985 853 35 853 defective_insulator 0
+606 409 702 544 617 604 521 470 broken_defect 0

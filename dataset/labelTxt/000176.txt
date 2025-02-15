@@ -1,0 +1,2 @@
+737 0 971 7 936 1201 701 1194 defective_insulator 0
+727 560 952 560 952 683 727 683 flashover_defect 0

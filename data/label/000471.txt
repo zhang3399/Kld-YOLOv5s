@@ -1,0 +1,2 @@
+636 3 889 3 889 1323 636 1323 defective_insulator 0
+638 593 880 593 880 699 638 699 broken_defect 0

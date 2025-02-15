@@ -1,0 +1,2 @@
+28 465 1685 581 1656 994 0 878 defective_insulator 0
+1361 557 1679 579 1650 991 1332 968 flashover_defect 0

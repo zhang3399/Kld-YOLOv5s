@@ -1,0 +1,2 @@
+691 844 560 852 524 260 655 253 defective_insulator 0
+662 348 528 358 521 261 655 252 flashover_defect 0

@@ -1,0 +1,2 @@
+416 348 614 358 564 1359 366 1349 defective_insulator 0
+413 360 597 371 591 476 406 465 flashover_defect 0

@@ -1,0 +1,2 @@
+577 0 844 0 844 1034 577 1034 defective_insulator 0
+594 476 824 476 824 590 594 590 broken_defect 0

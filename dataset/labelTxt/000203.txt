@@ -1,0 +1,2 @@
+1045 740 83 1146 8 969 969 562 defective_insulator 0
+1043 742 892 806 814 623 966 559 flashover_defect 0

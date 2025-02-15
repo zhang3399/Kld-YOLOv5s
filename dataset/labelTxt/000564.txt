@@ -1,0 +1,2 @@
+862 1316 651 1322 613 44 824 38 defective_insulator 0
+843 716 632 722 629 617 839 611 broken_defect 0

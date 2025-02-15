@@ -1,0 +1,2 @@
+738 1636 587 1643 547 842 698 834 defective_insulator 0
+705 933 554 942 549 857 700 847 flashover_defect 0

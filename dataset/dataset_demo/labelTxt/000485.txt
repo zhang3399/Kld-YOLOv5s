@@ -1,0 +1,2 @@
+1075 926 883 931 856 7 1048 1 defective_insulator 0
+1062 536 872 545 867 452 1058 442 broken_defect 0

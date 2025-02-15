@@ -1,0 +1,2 @@
+2039 717 209 938 159 517 1988 297 defective_insulator 0
+450 914 210 941 162 512 403 486 flashover_defect 0

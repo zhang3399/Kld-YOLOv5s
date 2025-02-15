@@ -1,0 +1,2 @@
+630 1 853 1 853 778 630 778 defective_insulator 0
+634 531 851 531 851 641 634 641 flashover_defect 0

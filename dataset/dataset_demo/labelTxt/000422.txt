@@ -1,0 +1,3 @@
+717 705 613 708 594 82 698 79 defective_insulator 0
+713 703 615 706 614 660 712 657 broken_defect 0
+701 142 597 145 595 92 700 89 flashover_defect 0

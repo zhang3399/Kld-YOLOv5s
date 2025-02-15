@@ -1,0 +1,2 @@
+584 1 753 1 753 653 584 653 defective_insulator 0
+589 494 751 494 751 581 589 581 broken_defect 0

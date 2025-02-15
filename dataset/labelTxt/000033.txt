@@ -1,0 +1,2 @@
+0 462 254 462 254 777 0 777 defective_insulator 0
+0 472 248 472 248 578 0 578 flashover_defect 0

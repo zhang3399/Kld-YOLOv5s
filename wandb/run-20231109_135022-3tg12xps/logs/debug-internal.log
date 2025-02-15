@@ -1,0 +1,207 @@
+2023-11-09 13:50:22,079 INFO    StreamThr :2524 [internal.py:wandb_internal():88] W&B internal server running at pid: 2524, started at: 2023-11-09 13:50:22.079596
+2023-11-09 13:50:22,079 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: status
+2023-11-09 13:50:22,079 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: status
+2023-11-09 13:50:22,079 DEBUG   SenderThread:2524 [sender.py:send():301] send: header
+2023-11-09 13:50:22,095 DEBUG   SenderThread:2524 [sender.py:send():301] send: run
+2023-11-09 13:50:22,095 INFO    WriterThread:2524 [datastore.py:open_for_write():75] open: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\run-3tg12xps.wandb
+2023-11-09 13:50:22,095 INFO    SenderThread:2524 [sender.py:_maybe_setup_resume():577] checking resume status for None/train/3tg12xps
+2023-11-09 13:50:25,598 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: check_version
+2023-11-09 13:50:25,598 INFO    SenderThread:2524 [dir_watcher.py:__init__():216] watching files in: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files
+2023-11-09 13:50:25,598 INFO    SenderThread:2524 [sender.py:_start_run_threads():912] run started: 3tg12xps with start time 1699509022.079595
+2023-11-09 13:50:25,598 DEBUG   SenderThread:2524 [sender.py:send():301] send: summary
+2023-11-09 13:50:25,598 INFO    SenderThread:2524 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-11-09 13:50:25,598 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: check_version
+2023-11-09 13:50:26,614 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\wandb-summary.json
+2023-11-09 13:50:26,723 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: run_start
+2023-11-09 13:50:26,739 DEBUG   HandlerThread:2524 [meta.py:__init__():34] meta init
+2023-11-09 13:50:26,739 DEBUG   HandlerThread:2524 [meta.py:__init__():49] meta init done
+2023-11-09 13:50:26,739 DEBUG   HandlerThread:2524 [meta.py:probe():215] probe
+2023-11-09 13:50:26,755 DEBUG   HandlerThread:2524 [meta.py:_save_pip():53] save pip
+2023-11-09 13:50:26,755 DEBUG   HandlerThread:2524 [meta.py:_save_pip():67] save pip done
+2023-11-09 13:50:26,755 DEBUG   HandlerThread:2524 [meta.py:_save_conda():74] save conda
+2023-11-09 13:50:27,630 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\requirements.txt
+2023-11-09 13:50:27,630 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\conda-environment.yaml
+2023-11-09 13:50:30,208 DEBUG   HandlerThread:2524 [meta.py:_save_conda():84] save conda done
+2023-11-09 13:50:30,208 DEBUG   HandlerThread:2524 [meta.py:probe():253] probe done
+2023-11-09 13:50:30,256 DEBUG   SenderThread:2524 [sender.py:send():301] send: files
+2023-11-09 13:50:30,256 INFO    SenderThread:2524 [sender.py:_save_file():1155] saving file wandb-metadata.json with policy now
+2023-11-09 13:50:30,256 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:50:30,256 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:50:30,646 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\conda-environment.yaml
+2023-11-09 13:50:30,646 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\wandb-metadata.json
+2023-11-09 13:50:31,162 DEBUG   SenderThread:2524 [sender.py:send():301] send: telemetry
+2023-11-09 13:50:31,162 DEBUG   SenderThread:2524 [sender.py:send():301] send: config
+2023-11-09 13:50:31,647 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_created():275] file/dir created: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\output.log
+2023-11-09 13:50:32,569 INFO    Thread-17 :2524 [upload_job.py:push():139] Uploaded file C:\Users\zhang\AppData\Local\Temp\tmpvmyv478pwandb\17vp8j38-wandb-metadata.json
+2023-11-09 13:50:33,663 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\output.log
+2023-11-09 13:50:43,776 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\output.log
+2023-11-09 13:50:46,184 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: stop_status
+2023-11-09 13:50:46,184 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: stop_status
+2023-11-09 13:50:53,860 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\config.yaml
+2023-11-09 13:50:54,861 DEBUG   SenderThread:2524 [sender.py:send():301] send: exit
+2023-11-09 13:50:54,861 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:54,861 INFO    SenderThread:2524 [sender.py:send_exit():437] handling exit code: 1
+2023-11-09 13:50:54,861 INFO    SenderThread:2524 [sender.py:send_exit():439] handling runtime: 28
+2023-11-09 13:50:54,861 INFO    SenderThread:2524 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-11-09 13:50:54,861 INFO    SenderThread:2524 [sender.py:send_exit():445] send defer
+2023-11-09 13:50:54,861 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:54,861 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:50:54,861 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 0
+2023-11-09 13:50:54,861 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:50:54,861 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 0
+2023-11-09 13:50:54,861 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 1
+2023-11-09 13:50:54,876 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:50:54,876 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 1
+2023-11-09 13:50:55,001 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:50:55,001 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:55,001 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 1
+2023-11-09 13:50:55,001 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 2
+2023-11-09 13:50:55,001 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:55,001 DEBUG   SenderThread:2524 [sender.py:send():301] send: stats
+2023-11-09 13:50:55,001 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:50:55,001 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 2
+2023-11-09 13:50:55,001 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:50:55,001 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 2
+2023-11-09 13:50:55,001 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 3
+2023-11-09 13:50:55,001 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:50:55,001 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 3
+2023-11-09 13:50:55,001 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:50:55,001 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 3
+2023-11-09 13:50:55,001 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 4
+2023-11-09 13:50:55,001 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:50:55,001 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 4
+2023-11-09 13:50:55,001 DEBUG   SenderThread:2524 [sender.py:send():301] send: summary
+2023-11-09 13:50:55,017 INFO    SenderThread:2524 [sender.py:_save_file():1155] saving file wandb-summary.json with policy end
+2023-11-09 13:50:55,017 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:50:55,017 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 4
+2023-11-09 13:50:55,017 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 5
+2023-11-09 13:50:55,017 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:50:55,017 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 5
+2023-11-09 13:50:55,017 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:50:55,017 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 5
+2023-11-09 13:50:55,017 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 6
+2023-11-09 13:50:55,017 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:50:55,017 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 6
+2023-11-09 13:50:55,017 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:50:55,017 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 6
+2023-11-09 13:50:55,111 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:55,862 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\output.log
+2023-11-09 13:50:55,862 INFO    Thread-13 :2524 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\wandb-summary.json
+2023-11-09 13:50:57,269 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 7
+2023-11-09 13:50:57,269 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:57,269 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:50:57,269 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 7
+2023-11-09 13:50:57,269 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:50:57,269 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 7
+2023-11-09 13:50:57,269 INFO    SenderThread:2524 [dir_watcher.py:finish():362] shutting down directory watcher
+2023-11-09 13:50:57,378 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:57,878 INFO    SenderThread:2524 [dir_watcher.py:_on_file_modified():292] file/dir modified: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\output.log
+2023-11-09 13:50:57,878 INFO    SenderThread:2524 [dir_watcher.py:finish():392] scan: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files
+2023-11-09 13:50:57,878 INFO    SenderThread:2524 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\conda-environment.yaml conda-environment.yaml
+2023-11-09 13:50:57,878 INFO    SenderThread:2524 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\config.yaml config.yaml
+2023-11-09 13:50:57,878 INFO    SenderThread:2524 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\output.log output.log
+2023-11-09 13:50:57,878 INFO    SenderThread:2524 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\requirements.txt requirements.txt
+2023-11-09 13:50:57,878 INFO    SenderThread:2524 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\wandb-metadata.json wandb-metadata.json
+2023-11-09 13:50:57,878 INFO    SenderThread:2524 [dir_watcher.py:finish():406] scan save: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\wandb-summary.json wandb-summary.json
+2023-11-09 13:50:57,894 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 8
+2023-11-09 13:50:57,894 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:57,894 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:50:57,894 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 8
+2023-11-09 13:50:57,894 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:50:57,894 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 8
+2023-11-09 13:50:57,894 INFO    SenderThread:2524 [file_pusher.py:finish():168] shutting down file pusher
+2023-11-09 13:50:58,004 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,004 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:58,114 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,114 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:58,223 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,223 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:58,332 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,332 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:58,442 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,442 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:58,551 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,551 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:58,661 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,661 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:58,777 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,777 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:58,879 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,879 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:58,996 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:58,996 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:59,111 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:59,111 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:59,214 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:59,214 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:59,326 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:59,327 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:59,444 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:59,444 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:59,556 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:59,557 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:59,630 INFO    Thread-23 :2524 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\config.yaml
+2023-11-09 13:50:59,659 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:59,659 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:59,775 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:59,775 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:59,881 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:59,881 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:50:59,995 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:50:59,995 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:00,110 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:00,112 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:00,213 INFO    Thread-22 :2524 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\conda-environment.yaml
+2023-11-09 13:51:00,214 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:00,214 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:00,248 INFO    Thread-25 :2524 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\requirements.txt
+2023-11-09 13:51:00,328 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:00,328 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:00,428 INFO    Thread-26 :2524 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\wandb-summary.json
+2023-11-09 13:51:00,444 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:00,445 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:00,561 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:00,561 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:00,664 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:00,664 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:00,777 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:00,777 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:00,852 INFO    Thread-24 :2524 [upload_job.py:push():139] Uploaded file C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\files\output.log
+2023-11-09 13:51:00,878 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:00,878 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:00,994 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:00,995 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:01,060 INFO    Thread-12 :2524 [sender.py:transition_state():458] send defer: 9
+2023-11-09 13:51:01,061 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:51:01,061 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 9
+2023-11-09 13:51:01,061 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:51:01,061 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 9
+2023-11-09 13:51:01,095 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:01,567 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 10
+2023-11-09 13:51:01,567 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:01,568 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:51:01,568 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 10
+2023-11-09 13:51:01,569 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:51:01,569 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 10
+2023-11-09 13:51:01,569 INFO    SenderThread:2524 [sender.py:transition_state():458] send defer: 11
+2023-11-09 13:51:01,569 DEBUG   SenderThread:2524 [sender.py:send():301] send: final
+2023-11-09 13:51:01,569 DEBUG   SenderThread:2524 [sender.py:send():301] send: footer
+2023-11-09 13:51:01,570 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: defer
+2023-11-09 13:51:01,570 INFO    HandlerThread:2524 [handler.py:handle_request_defer():161] handle defer: 11
+2023-11-09 13:51:01,570 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: defer
+2023-11-09 13:51:01,570 INFO    SenderThread:2524 [sender.py:send_request_defer():454] handle sender defer: 11
+2023-11-09 13:51:01,680 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: poll_exit
+2023-11-09 13:51:01,680 DEBUG   SenderThread:2524 [sender.py:send_request():315] send_request: poll_exit
+2023-11-09 13:51:01,680 INFO    SenderThread:2524 [file_pusher.py:join():173] waiting for file pusher
+2023-11-09 13:51:04,949 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: sampled_history
+2023-11-09 13:51:04,949 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: get_summary
+2023-11-09 13:51:04,949 INFO    MainThread:2524 [wandb_run.py:_footer_history_summary_info():3321] rendering history
+2023-11-09 13:51:04,949 INFO    MainThread:2524 [wandb_run.py:_footer_history_summary_info():3353] rendering summary
+2023-11-09 13:51:04,949 INFO    MainThread:2524 [wandb_run.py:_footer_sync_info():3277] logging synced files
+2023-11-09 13:51:04,949 DEBUG   HandlerThread:2524 [handler.py:handle_request():138] handle_request: shutdown
+2023-11-09 13:51:04,949 INFO    HandlerThread:2524 [handler.py:finish():807] shutting down handler
+2023-11-09 13:51:05,580 INFO    WriterThread:2524 [datastore.py:close():279] close: C:\Users\zhang\Desktop\study\isoltor_grsammer\yolov5_obb-master\wandb\run-20231109_135022-3tg12xps\run-3tg12xps.wandb
+2023-11-09 13:51:05,863 INFO    SenderThread:2524 [sender.py:finish():1315] shutting down sender
+2023-11-09 13:51:05,863 INFO    SenderThread:2524 [file_pusher.py:finish():168] shutting down file pusher
+2023-11-09 13:51:05,863 INFO    SenderThread:2524 [file_pusher.py:join():173] waiting for file pusher
+2023-11-09 13:51:05,964 INFO    MainThread:2524 [internal.py:handle_exit():78] Internal process exited

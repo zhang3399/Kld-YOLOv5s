@@ -1,0 +1,2 @@
+465 386 633 391 605 1333 437 1328 defective_insulator 0
+466 384 633 389 630 491 462 486 flashover_defect 0

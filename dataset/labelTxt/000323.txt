@@ -1,0 +1,2 @@
+564 369 759 421 611 980 415 929 defective_insulator 0
+563 373 753 426 711 577 521 524 flashover_defect 0

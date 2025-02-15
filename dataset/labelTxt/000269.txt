@@ -1,0 +1,2 @@
+453 146 473 238 20 340 0 247 defective_insulator 0
+405 160 426 247 374 260 354 172 broken_defect 0

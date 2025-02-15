@@ -1,0 +1,2 @@
+639 351 895 351 895 981 639 981 defective_insulator 0
+643 355 895 355 895 542 643 542 flashover_defect 0

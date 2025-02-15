@@ -1,0 +1,2 @@
+435 370 644 384 611 853 402 838 defective_insulator 0
+435 396 639 414 630 509 427 491 flashover_defect 0

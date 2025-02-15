@@ -1,0 +1,2 @@
+573 325 831 332 815 853 557 845 defective_insulator 0
+573 329 829 336 825 462 569 454 flashover_defect 0

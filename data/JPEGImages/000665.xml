@@ -1,0 +1,28 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000665</filename>
+  <path>F:\A-zk\Rotating target\JPEGImages\000665.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1152</width>
+    <height>864</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>good_insulator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>463.4073</cx>
+      <cy>385.4395</cy>
+      <w>821.7385</w>
+      <h>71.3371</h>
+      <angle>2.931593</angle>
+    </robndbox>
+  </object>
+</annotation>

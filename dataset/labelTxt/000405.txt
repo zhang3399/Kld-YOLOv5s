@@ -1,0 +1,2 @@
+700 429 870 436 849 981 678 974 defective_insulator 0
+698 440 876 451 871 544 693 533 flashover_defect 0

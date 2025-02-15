@@ -1,0 +1,2 @@
+289 150 509 150 509 569 289 569 defective_insulator 0
+380 152 505 172 489 271 364 251 broken_defect 0

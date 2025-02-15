@@ -1,0 +1,2 @@
+848 0 969 6 921 962 800 956 defective_insulator 0
+813 705 933 714 929 771 809 763 broken_defect 0

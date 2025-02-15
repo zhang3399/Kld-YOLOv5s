@@ -1,0 +1,3 @@
+0 507 312 507 312 753 0 753 good_insulator 0
+1135 357 629 464 610 374 1116 266 defective_insulator 0
+688 444 631 457 614 374 670 362 flashover_defect 0

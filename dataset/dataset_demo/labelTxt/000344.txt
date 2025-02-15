@@ -1,0 +1,2 @@
+706 476 1355 814 1269 980 620 642 defective_insulator 0
+706 477 833 547 753 694 625 624 flashover_defect 0

@@ -1,0 +1,2 @@
+975 921 750 980 626 513 851 453 defective_insulator 0
+881 571 668 632 634 514 847 453 flashover_defect 0

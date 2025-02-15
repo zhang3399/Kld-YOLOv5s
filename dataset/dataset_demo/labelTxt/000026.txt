@@ -1,0 +1,2 @@
+455 293 692 293 692 853 455 853 defective_insulator 0
+687 549 477 551 476 448 686 446 broken_defect 0

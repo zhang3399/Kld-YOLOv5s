@@ -1,0 +1,2 @@
+484 75 733 75 733 853 484 853 defective_insulator 0
+497 330 732 330 732 445 497 445 broken_defect 0

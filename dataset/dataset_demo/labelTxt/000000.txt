@@ -1,0 +1,2 @@
+378 157 466 162 445 568 358 563 defective_insulator 0
+374 303 460 310 455 361 370 354 broken_defect 0

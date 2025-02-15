@@ -1,0 +1,2 @@
+735 0 955 0 955 905 735 905 defective_insulator 0
+753 395 925 395 925 499 753 499 broken_defect 0

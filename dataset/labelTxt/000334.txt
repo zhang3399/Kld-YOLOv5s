@@ -1,0 +1,2 @@
+568 0 729 5 707 728 546 724 defective_insulator 0
+559 343 718 351 714 428 555 420 broken_defect 0

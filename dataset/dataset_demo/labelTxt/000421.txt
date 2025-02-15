@@ -1,0 +1,2 @@
+582 498 773 498 773 976 582 976 defective_insulator 0
+584 586 766 586 766 680 584 680 flashover_defect 0

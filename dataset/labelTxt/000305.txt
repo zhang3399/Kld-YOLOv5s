@@ -1,0 +1,2 @@
+525 0 736 12 686 853 474 840 defective_insulator 0
+515 161 724 176 716 291 507 276 broken_defect 0

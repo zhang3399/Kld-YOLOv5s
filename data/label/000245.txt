@@ -1,0 +1,2 @@
+694 580 893 580 893 1202 694 1202 defective_insulator 0
+699 598 882 598 882 693 699 693 flashover_defect 0

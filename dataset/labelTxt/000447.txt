@@ -1,0 +1,2 @@
+470 453 620 453 620 1222 470 1222 defective_insulator 0
+470 449 621 449 621 556 470 556 flashover_defect 0

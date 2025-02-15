@@ -1,0 +1,3 @@
+629 255 860 255 860 981 629 981 defective_insulator 0
+632 254 860 254 860 405 632 405 flashover_defect 0
+633 484 858 484 858 619 633 619 flashover_defect 0

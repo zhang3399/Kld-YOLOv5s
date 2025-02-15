@@ -1,0 +1,2 @@
+2 0 1169 0 1169 800 2 800 defective_insulator 0
+845 290 737 376 595 197 703 111 broken_defect 0

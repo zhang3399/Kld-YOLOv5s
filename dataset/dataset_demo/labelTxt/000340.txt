@@ -1,0 +1,2 @@
+746 0 896 3 878 872 729 869 flashover_defect 0
+740 462 881 468 878 547 736 541 flashover_defect 0

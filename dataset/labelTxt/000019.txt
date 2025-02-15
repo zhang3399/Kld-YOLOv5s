@@ -1,0 +1,2 @@
+458 0 701 7 682 649 439 641 defective_insulator 0
+443 521 674 521 674 639 443 639 flashover_defect 0

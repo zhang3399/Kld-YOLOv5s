@@ -1,0 +1,32 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000489</filename>
+  <path>F:\A-zk\Rotating target\JPEGImages\000489.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1286</width>
+    <height>854</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>defective_insulator</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <x0>876</x0><y0>840</y0><x1>671</x1><y1>853</y1><x2>645</x2><y2>411</y2><x3>850</x3><y3>398</y3></bndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>flashover_defect</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <x0>855</x0><y0>499</y0><x1>653</x1><y1>513</y1><x2>646</x2><y2>414</y2><x3>848</x3><y3>399</y3></bndbox>
+  </object>
+</annotation>

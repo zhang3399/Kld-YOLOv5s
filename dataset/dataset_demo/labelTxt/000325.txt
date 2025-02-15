@@ -1,0 +1,2 @@
+614 289 886 721 676 853 404 420 defective_insulator 0
+615 290 722 469 516 592 409 414 broken_defect 0

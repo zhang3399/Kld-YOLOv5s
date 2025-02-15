@@ -1,0 +1,2 @@
+872 0 1039 5 1022 553 855 548 defective_insulator 0
+863 436 1022 441 1020 521 860 516 broken_defect 0

@@ -1,0 +1,2 @@
+904 1088 767 1089 757 120 894 119 defective_insulator 0
+764 126 897 126 897 194 764 194 flashover_defect 0

@@ -1,0 +1,2 @@
+1117 918 806 981 680 357 990 294 defective_insulator 0
+1031 521 726 583 684 375 989 313 flashover_defect 0

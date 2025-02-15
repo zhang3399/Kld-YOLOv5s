@@ -1,0 +1,2 @@
+792 2 996 2 996 410 792 410 defective_insulator 0
+807 280 993 280 993 403 807 403 flashover_defect 0

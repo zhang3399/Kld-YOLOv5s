@@ -1,0 +1,2 @@
+695 265 777 272 729 798 648 790 defective_insulator 0
+685 392 762 399 757 446 681 439 broken_defect 0

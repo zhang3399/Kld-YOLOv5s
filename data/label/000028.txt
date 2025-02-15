@@ -1,0 +1,2 @@
+45 1 971 1 971 853 45 853 defective_insulator 0
+347 501 467 597 413 664 293 567 broken_defect 0

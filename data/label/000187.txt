@@ -1,0 +1,2 @@
+960 1195 786 1200 767 552 941 547 defective_insulator 0
+931 634 774 642 769 557 926 549 flashover_defect 0

@@ -1,0 +1,2 @@
+511 109 596 112 573 696 487 693 defective_insulator 0
+512 109 593 113 591 166 509 162 flashover_defect 0

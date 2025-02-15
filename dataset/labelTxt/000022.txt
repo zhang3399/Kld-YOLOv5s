@@ -1,0 +1,2 @@
+392 102 953 102 953 854 392 854 defective_insulator 0
+703 351 525 415 495 333 673 268 broken_defect 0

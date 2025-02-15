@@ -1,0 +1,2 @@
+2066 719 381 973 331 640 2015 385 defective_insulator 0
+523 608 577 941 390 971 336 639 flashover_defect 0

@@ -1,0 +1,2 @@
+605 1 1064 926 953 981 494 56 defective_insulator 0
+810 404 841 472 722 525 691 458 broken_defect 0

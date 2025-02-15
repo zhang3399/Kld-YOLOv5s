@@ -1,0 +1,2 @@
+717 0 1182 0 1182 1188 717 1188 defective_insulator 0
+717 532 1157 532 1157 790 717 790 flashover_defect 0

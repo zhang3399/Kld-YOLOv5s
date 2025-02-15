@@ -1,0 +1,2 @@
+479 0 702 0 702 629 479 629 defective_insulator 0
+480 522 669 522 669 621 480 621 broken_defect 0

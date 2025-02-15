@@ -1,0 +1,2 @@
+684 523 806 533 771 977 648 967 defective_insulator 0
+684 528 807 537 800 632 677 624 flashover_defect 0

@@ -1,0 +1,2 @@
+47 174 1044 397 1005 569 8 346 defective_insulator 0
+602 302 694 327 651 491 558 466 broken_defect 0

@@ -1,0 +1,2 @@
+349 0 606 23 531 853 274 830 defective_insulator 0
+323 325 581 351 565 508 307 483 broken_defect 0

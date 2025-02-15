@@ -1,0 +1,2 @@
+275 0 449 0 449 1099 275 1099 defective_insulator 0
+274 477 448 477 448 571 274 571 broken_defect 0

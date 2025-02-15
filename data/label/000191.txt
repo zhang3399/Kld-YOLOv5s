@@ -1,0 +1,2 @@
+1033 638 863 645 838 7 1008 0 defective_insulator 0
+870 567 1034 567 1034 640 870 640 flashover_defect 0

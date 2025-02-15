@@ -1,0 +1,2 @@
+804 313 895 455 356 801 265 659 defective_insulator 0
+807 317 883 436 793 495 716 375 flashover_defect 0

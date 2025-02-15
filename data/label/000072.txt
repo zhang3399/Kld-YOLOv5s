@@ -1,0 +1,2 @@
+751 338 966 342 952 1033 737 1029 defective_insulator 0
+755 355 959 361 956 456 752 450 flashover_defect 0

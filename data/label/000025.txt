@@ -1,0 +1,2 @@
+654 1 821 1 821 854 654 854 defective_insulator 0
+664 462 813 462 813 530 664 530 broken_defect 0

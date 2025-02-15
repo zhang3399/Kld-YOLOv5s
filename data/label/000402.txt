@@ -1,0 +1,2 @@
+551 393 763 399 745 977 534 971 defective_insulator 0
+550 400 763 406 760 511 547 505 flashover_defect 0

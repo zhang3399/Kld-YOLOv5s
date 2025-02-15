@@ -1,0 +1,2 @@
+918 1111 749 1114 727 23 896 20 defective_insulator 0
+913 758 740 765 737 683 910 676 broken_defect 0

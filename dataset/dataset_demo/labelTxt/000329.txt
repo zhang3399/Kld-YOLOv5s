@@ -1,0 +1,2 @@
+494 1 631 3 614 852 477 849 defective_insulator 0
+483 427 617 427 617 502 483 502 broken_defect 0

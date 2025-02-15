@@ -1,0 +1,3 @@
+810 30 919 41 847 758 738 747 defective_insulator 0
+813 30 919 42 912 102 807 90 flashover_defect 0
+748 684 850 695 844 750 742 738 broken_defect 0

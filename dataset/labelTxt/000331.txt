@@ -1,0 +1,2 @@
+302 0 758 742 579 852 123 109 defective_insulator 0
+504 363 551 445 384 541 337 459 broken_defect 0

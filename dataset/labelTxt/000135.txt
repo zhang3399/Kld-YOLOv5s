@@ -1,0 +1,2 @@
+617 432 811 445 769 1034 576 1021 defective_insulator 0
+617 438 810 452 805 531 611 517 flashover_defect 0

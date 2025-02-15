@@ -1,0 +1,2 @@
+0 354 1148 354 1148 1128 0 1128 defective_insulator 0
+871 359 1118 359 1118 659 871 659 flashover_defect 0

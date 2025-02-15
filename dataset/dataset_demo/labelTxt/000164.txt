@@ -1,0 +1,2 @@
+680 0 1094 0 1094 1202 680 1202 defective_insulator 0
+715 567 1067 567 1067 772 715 772 flashover_defect 0

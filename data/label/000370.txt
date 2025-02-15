@@ -1,0 +1,2 @@
+566 84 767 94 729 852 528 842 defective_insulator 0
+556 486 733 497 727 596 550 585 broken_defect 0

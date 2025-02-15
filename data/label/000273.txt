@@ -1,0 +1,2 @@
+628 4 762 660 583 696 450 40 defective_insulator 0
+750 663 594 695 576 606 732 574 broken_defect 0

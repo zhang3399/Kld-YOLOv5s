@@ -1,0 +1,2 @@
+756 0 1024 59 819 975 552 915 defective_insulator 0
+680 361 948 429 909 584 641 515 broken_defect 0

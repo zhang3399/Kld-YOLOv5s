@@ -1,0 +1,2 @@
+664 396 854 415 797 981 607 961 defective_insulator 0
+666 412 847 430 834 561 653 543 flashover_defect 0

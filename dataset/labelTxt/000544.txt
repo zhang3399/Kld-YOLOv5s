@@ -1,0 +1,2 @@
+761 1 987 13 950 766 724 755 defective_insulator 0
+732 632 952 645 945 759 725 746 broken_defect 0

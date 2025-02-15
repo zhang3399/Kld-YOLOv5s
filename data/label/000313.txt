@@ -1,0 +1,2 @@
+684 1 844 1 844 492 684 492 defective_insulator 0
+685 407 848 407 848 493 685 493 broken_defect 0

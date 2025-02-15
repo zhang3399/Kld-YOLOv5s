@@ -1,0 +1,2 @@
+630 377 771 378 765 981 624 980 defective_insulator 0
+631 440 770 441 770 511 631 509 broken_defect 0

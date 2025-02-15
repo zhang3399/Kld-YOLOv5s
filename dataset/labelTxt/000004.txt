@@ -1,0 +1,2 @@
+610 227 782 227 782 853 610 853 defective_insulator 0
+612 237 782 237 782 354 612 354 flashover_defect 0

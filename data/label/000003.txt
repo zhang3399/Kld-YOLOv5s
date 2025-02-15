@@ -1,0 +1,2 @@
+484 198 699 206 673 846 458 838 defective_insulator 0
+479 420 690 433 683 554 472 541 broken_defect 0

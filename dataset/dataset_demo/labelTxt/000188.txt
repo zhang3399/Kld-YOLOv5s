@@ -1,0 +1,2 @@
+777 3 1000 3 1000 700 777 700 defective_insulator 0
+779 543 1002 543 1002 700 779 700 flashover_defect 0

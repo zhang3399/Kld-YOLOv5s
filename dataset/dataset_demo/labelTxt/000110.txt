@@ -1,0 +1,2 @@
+200 401 1992 916 1940 1096 148 581 defective_insulator 0
+216 411 311 436 269 594 174 569 flashover_defect 0

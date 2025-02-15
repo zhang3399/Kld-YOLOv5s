@@ -1,0 +1,2 @@
+1256 3 1415 145 789 844 631 702 defective_insulator 0
+786 530 941 668 865 752 711 614 broken_defect 0

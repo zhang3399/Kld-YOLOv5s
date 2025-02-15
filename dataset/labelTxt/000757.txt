@@ -1,0 +1,2 @@
+938 469 211 624 194 548 921 393 good_insulator 0
+353 28 52 70 48 42 349 0 good_insulator 0

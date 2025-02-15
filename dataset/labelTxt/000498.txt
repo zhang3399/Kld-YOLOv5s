@@ -1,0 +1,2 @@
+318 545 1802 634 1783 943 300 854 defective_insulator 0
+321 542 558 554 542 873 305 861 flashover_defect 0

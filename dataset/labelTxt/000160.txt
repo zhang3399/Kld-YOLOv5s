@@ -1,0 +1,1 @@
+1145 1184 931 1199 848 14 1062 0 defective_insulator 0

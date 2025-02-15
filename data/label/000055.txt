@@ -1,0 +1,2 @@
+772 32 927 32 927 1061 772 1061 defective_insulator 0
+774 36 928 36 928 112 774 112 flashover_defect 0

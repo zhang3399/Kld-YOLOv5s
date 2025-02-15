@@ -1,0 +1,2 @@
+704 846 537 853 503 7 670 1 defective_insulator 0
+689 523 526 532 521 436 684 428 broken_defect 0

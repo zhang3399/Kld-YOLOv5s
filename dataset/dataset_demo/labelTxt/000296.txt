@@ -1,0 +1,2 @@
+626 1 839 97 506 844 292 748 defective_insulator 0
+500 303 704 384 668 474 464 392 broken_defect 0

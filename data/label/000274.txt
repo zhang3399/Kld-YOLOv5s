@@ -1,0 +1,2 @@
+572 1 811 1 811 852 572 852 defective_insulator 0
+578 266 795 266 795 393 578 393 broken_defect 0

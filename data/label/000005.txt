@@ -1,0 +1,3 @@
+899 427 52 785 0 663 847 305 good_insulator 0
+789 347 43 653 1 551 747 244 defective_insulator 0
+677 384 602 416 562 321 637 289 defective_insulator 0

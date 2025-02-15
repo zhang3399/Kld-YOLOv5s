@@ -1,0 +1,2 @@
+793 524 980 535 940 1191 754 1179 defective_insulator 0
+795 534 980 547 973 649 788 636 flashover_defect 0
